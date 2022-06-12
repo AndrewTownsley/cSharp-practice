@@ -1,0 +1,15 @@
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\bin\Debug\net6.0\Esercises12.exe
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\bin\Debug\net6.0\Esercises12.deps.json
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\bin\Debug\net6.0\Esercises12.runtimeconfig.json
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\bin\Debug\net6.0\Esercises12.dll
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\bin\Debug\net6.0\Esercises12.pdb
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\Esercises12.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\Esercises12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\Esercises12.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\Esercises12.AssemblyInfo.cs
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\Esercises12.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\Esercises12.dll
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\refint\Esercises12.dll
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\Esercises12.pdb
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\Esercises12.genruntimeconfig.cache
+C:\Users\acer\OneDrive\C#\Esercises12\Esercises12\obj\Debug\net6.0\ref\Esercises12.dll
