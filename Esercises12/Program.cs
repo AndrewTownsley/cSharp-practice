@@ -2,23 +2,125 @@
 {
     internal class Program
     {
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="args"></param>
         static void Main(string[] args)
         {
 
-            var random = new Random();
+
+            Console.WriteLine("Please enter a series of numbers seperated by a comma example: 1,2,3,4,5");
+
+            var userNumbers = Console.ReadLine();
+
+            var numbers = userNumbers.Split(',');
+
+            var max = Convert.ToInt32(numbers[0]);
+
+            foreach(var item in numbers)
+            {
+                var num = Convert.ToInt32(item);
+                if (num > max)
+                    max = num;
+            }
+                Console.WriteLine("Max is" + " " + max);
+
+
+
+
+
+
+
+            /*var random = new Random();
+            var secretNumber = random.Next(1, 10);
+
+            Console.WriteLine(secretNumber);
+            Console.WriteLine("Please Guess A Number Between 1 and 10...");
+            var userGuess = int.Parse(Console.ReadLine());
+
+            if (secretNumber == userGuess)
+            {
+                Console.WriteLine("Correct :)");
+            }
+            else
+                Console.WriteLine("Wrong :(");
+*/
+
+
+
+
+
+            /*Console.WriteLine("Please enter a number to get it's factorial");
+
+            int userNumber = int.Parse(Console.ReadLine());
+            int factorial = 1;
+
+            for(int i=1; i <= userNumber; i++)
+            {
+                factorial = factorial * i;
+            }
+
+            Console.WriteLine(" {0}! = {1}", userNumber, factorial);*/
+
+
+
+
+
+
+
+/*
+            var count = 0;
+            while (true)
+            {
+                Console.WriteLine("Enter a Number or ok");
+                var userInputRaw = Console.ReadLine();
+                var userNumber = 0;
+                if(userInputRaw.ToLower() != "ok")
+                {
+                    userNumber= Convert.ToInt32(userInputRaw);
+                    count += userNumber;
+                } else
+                {
+                    break;
+                }
+            Console.WriteLine(count);
+                continue;
+            }*/
+
+            
+
+
+
+
+
+
+
+
+
+
+      /*      int divideByThree = 0;
+
+            for(int i=1; i <= 100; i++)
+            {
+                if(i % 3 == 0)
+                {
+                    divideByThree++;
+                }
+            }
+                    Console.WriteLine(divideByThree);
+            */
+
+
+
+
+
+            /*var random = new Random();
             const int passwordLength = 10;
             var buffer = new char[passwordLength];
 
             for (var i = 0; i < passwordLength; i++)
-                /*                Console.WriteLine(random.Next(1,100));*/
+                *//*                Console.WriteLine(random.Next(1,100));*//*
                 buffer[i] = (char)('a' + random.Next(0, 26));
                 var password = new string(buffer);
                 Console.WriteLine(password);    
-            
+            */
 
 
 
